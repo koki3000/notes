@@ -1,0 +1,3 @@
+[submodule "notes-react"]
+	path = notes-react
+	url = https://github.com/koki3000/notes-react
